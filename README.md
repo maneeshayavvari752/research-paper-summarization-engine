@@ -39,3 +39,5 @@ Section Extraction Logic
 SentenceTransformer Embeddings
       ↓
 Cosine Similarity Q&A
+
+https://drive.google.com/file/d/14utxm0Kw_bByqUcme8oIBnjDx59VOImo/view?usp=sharing
